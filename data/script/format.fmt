@@ -1,0 +1,14 @@
+10.0
+12
+1   SQLCHAR   0  1000   "|\""   1     NAME         SQL_Latin1_General_CP1_CI_AS
+2   SQLCHAR   0  1000   "\"|\""   2     PRICE         SQL_Latin1_General_CP1_CI_AS
+3   SQLCHAR   0  1000   "\"|\""   3     CUSINE_CATEGORY   SQL_Latin1_General_CP1_CI_AS
+4   SQLCHAR   0  1000   "\"|\""   4     CITY         SQL_Latin1_General_CP1_CI_AS
+5   SQLCHAR   0  1000   "\"|\""   5     REGION   SQL_Latin1_General_CP1_CI_AS
+6   SQLCHAR   0  1000   "\"|\""   6     URL         SQL_Latin1_General_CP1_CI_AS
+7   SQLCHAR   0  1000   "\"|\""   7     PAGE_NO   SQL_Latin1_General_CP1_CI_AS
+8   SQLCHAR   0  1000   "\"|\""   8     CUSINE_TYPE         SQL_Latin1_General_CP1_CI_AS
+9   SQLCHAR   0  1000   "\"|\""   9     TMING   SQL_Latin1_General_CP1_CI_AS
+10   SQLCHAR   0  1000   "\"|\""   10     RATING_TYPE         SQL_Latin1_General_CP1_CI_AS
+11   SQLCHAR   0  1000   "\"|\""   11     RATING   SQL_Latin1_General_CP1_CI_AS
+12   SQLCHAR   0  1000   "\"\r\n"   12     VOTES   SQL_Latin1_General_CP1_CI_AS
